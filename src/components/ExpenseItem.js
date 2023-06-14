@@ -2,7 +2,7 @@ import Card from './Card';
 import ExpenseDate from './EspenseDate';
 import './ExpenseItem.css';
 
-function ExpenseItem( props) {
+ function ExpenseItem( props) {
 
    
     return ( 
@@ -14,5 +14,5 @@ function ExpenseItem( props) {
         </div>
     </Card>
     );
-}
+  }
 export default ExpenseItem;
