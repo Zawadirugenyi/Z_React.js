@@ -15,4 +15,5 @@ import './ExpenseItem.css';
     </Card>
     );
   }
+  
 export default ExpenseItem;
