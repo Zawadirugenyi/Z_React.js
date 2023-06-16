@@ -32,15 +32,15 @@ return <Card className="expenses">
       />
 
      <ExpenseItem 
-       title={props.items[3].title} 
-       amount={props.items[3].amount} 
-       date={props.items[3].date}
+       title={props.items[4].title} 
+       amount={props.items[4].amount} 
+       date={props.items[4].date}
       />
-      
+
       <ExpenseItem 
-       title={props.items[3].title} 
-       amount={props.items[3].amount} 
-       date={props.items[3].date}
+       title={props.items[5].title} 
+       amount={props.items[5].amount} 
+       date={props.items[5].date}
       />
 
 </Card>
