@@ -33,9 +33,9 @@ function App() {
 
       {
         id: 'e5',
-        title: ' Savings ', 
-        amount: 30094.67, 
-        date: new Date(2023, 6, 28)
+        title: ' Tuition', 
+        amount: 120094.67, 
+        date: new Date(2022, 6, 28)
       },
 
       {
