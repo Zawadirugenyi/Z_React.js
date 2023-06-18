@@ -1,3 +1,4 @@
+
 .expense-date {
     display: flex;
     flex-direction: column;
@@ -16,7 +17,7 @@
     font-size: 0.75rem;
     font-weight: bold;
   }
-  
+
   
   .expense-date__year {
     font-size: 0.75rem;
